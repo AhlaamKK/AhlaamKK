@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 ## 📖 About me
 
 * 💻 I'm a Senior Mobile Engineer 
-* 📱 I make apps for Android 
+* 📱 I make apps for Android
+
+
+##  GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhlaamKK)](https://github.com/AhlaamKK/github-profile-trophy)
 
 <p align="left">
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
