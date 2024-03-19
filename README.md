@@ -49,8 +49,8 @@ Here are some ideas to get you started:
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /></a>
             </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+            <td><a href="#"><img alt="Postman" title="Postman" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png" /></a>
             </td>
         </tr>
         <tr>
@@ -73,6 +73,9 @@ Here are some ideas to get you started:
             <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://i.imgur.com/eO5z1xV.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://i.imgur.com/DZgetVv.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Git" title="Git" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
         </tr>
