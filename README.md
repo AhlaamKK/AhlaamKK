@@ -117,7 +117,7 @@ Here are some ideas to get you started:
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhlaamKK&label=Profile%20views&color=0e75b6&style=flat" alt="AhlaamKK" /> </p>
 
 </details>
 -----
